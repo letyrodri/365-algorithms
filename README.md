@@ -1,2 +1,2 @@
 # 365-algorithms-2018
-A daily famous computer science algorithm with complexity
+Some interesting Python 2 algorithms
