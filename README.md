@@ -15,8 +15,9 @@ https://www.python.org/downloads/
 
 ## Repository organization
 
-root:  \*.py files containing funtions of each algorithm
-\tests: \*.py files that corresponds to test cases for each algorithm. The naming convention is <algorithm>_tests.py being <algorithm>.py the related implementation.
+root:  \*.py files containing functions of each algorithm
+
+\tests: \*.py files that corresponds to test cases for each algorithm. The naming convention is \<algorithm\>\_tests.py being \<algorithm\>.py the related implementation.
 
 ## Execution
 
