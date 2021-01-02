@@ -22,14 +22,14 @@ root:  \*.py files containing funtions of each algorithm
 
 In the directory just write,
 
-'''
+´´´
 python -m tests.<testname>
-'''
+´´´
 
 In example, 
-'''
+´´´
 python -m tests.binary_search_tests
-'''
+´´´
 
 ## Some of the algorithm descriptions
 
